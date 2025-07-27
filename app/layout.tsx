@@ -23,7 +23,7 @@ export default function RootLayout({
           <main className="container mx-auto px-4 py-8">{children}</main>
         </Providers>
         <footer className="bg-gray-900 text-white py-4 flex justify-center items-center">
-            <p className="text-lg font-semibold">Made with ❤ ReelsPro</p>
+            <p className="text-lg font-semibold">Made with ❤ Ryzen234</p>
           </footer>
 
       </body>
